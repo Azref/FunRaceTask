@@ -1,0 +1,17 @@
+
+Odin (Sirenix)
+Assets/Plugin/Sirenix
+yaklaşık 2 yıldır kullanıyorum
+Editor tool yazmasını çok kolaylaştırıyor.
+Dictionary, List Vector etc. hepsinin hiyararşisini ve editlenebilme şekillerini kolaylaştırıyor..
+
+Dotween
+Assets/Plugin/Demigiant
+Uzun yıllardır tween assetleri kullanıyorum macromedia flashtan beri buda 5+ yıl vardır.
+Tween hareketleri (pozisyon değiştirme dönme vs.) ve birçok asset üzerinde kontrol saglıyor ease kütüphanelerini kullanarak..
+projede engellerin hareket animasyonlarıda kullanıldı.
+
+Probuilder
+Unity package
+2-3 seneidr basit modellemeler vs. için kullanıyorum.
+projedeki yol ve engellerin yapımında kullanıldı.
